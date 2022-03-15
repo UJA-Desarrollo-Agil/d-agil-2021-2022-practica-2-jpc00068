@@ -1,6 +1,7 @@
 body {
     background: #170804 url("../img/page_bg.jpg") repeat-x left top;
-    font-family: Palatino, Times, "Times New Roman", serif;
+    /*font-family: "Lucida Console", "Courier New", monospace;*/
+	font-family: "Impact", "Helvetica Inserat", sans serif;
     font-size: 18px;
     line-height: 1.6em;
     background-attachment: fixed;
@@ -18,7 +19,7 @@ body {
 
 /* The title block */
 #title, #title .label, #content, .tools {
-    border-radius: 2px;
+    border-radius: 10px;
 }
 #title {
     max-width: 28em;
